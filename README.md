@@ -1,2 +1,14 @@
-# css
-static job listing / src / index.css
+body {
+  margin: 0;
+  font-family: 'Spartan', sans-serif;
+  font-weight: 500;
+  font-size: .9375rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: 	#EFFAFA;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}  
